@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>Director of Technology · Platform & AI Engineering</strong><br/>
-  Building scalable systems, integrating AI responsibly, and reducing operational complexity.
+  Hands-on leader designing scalable platforms, deploying responsible AI, and driving operational simplicity.
 </p>
 
 ---
@@ -11,7 +11,6 @@
 
 - Platform & distributed system architecture  
 - Applied AI / LLMs in production environments  
-- Automation, CI/CD, and developer leverage  
 - Secure, regulated, global-scale systems  
 
 ---

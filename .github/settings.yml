@@ -1,0 +1,18 @@
+repository:
+  # Automatically delete head branches after pull requests are merged.
+  delete_branch_on_merge: true
+
+branches:
+  - name: main
+    protection:
+      # Keep protections lightweight but ensure all changes land through PRs.
+      required_pull_request_reviews:
+        required_approving_review_count: 0
+      # Keep protections applied for admins too.
+      enforce_admins: true
+      # Maintain a clean, non-diverging history on main.
+      required_linear_history: true
+      # Prevent rewriting main history.
+      allow_force_pushes: false
+      # Keep main from being deleted.
+      allow_deletions: false

@@ -26,15 +26,14 @@
 
 ### 🔗 Connect
 
-[![Website][website-badge]][website]
-[![LinkedIn][linkedin-badge]][linkedin]
+<a href="https://richardwolff.me/"><img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="30" /></a>
+<a href="https://www.linkedin.com/in/wolffrichardj"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="30" /></a>
+<a href="https://github.com/wolffrichardj"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" /></a>
 
-Connect or message me on [LinkedIn][linkedin], or email me at [wolffrichardj@gmail.com][email]. I’m actively interested in speaking engagements on AI and scalable solutions.
+Connect or message me on [LinkedIn][linkedin], [GitHub][github], or email me at [wolffrichardj@gmail.com][email]. I’m actively interested in speaking engagements on AI and scalable solutions.
 
 [website]: https://richardwolff.me/
 [linkedin]: https://www.linkedin.com/in/wolffrichardj
+[github]: https://github.com/wolffrichardj
 [email]: mailto:wolffrichardj@gmail.com
 [derbynet]: https://github.com/wolffrichardj/derbynet
-
-[website-badge]: https://img.shields.io/badge/Website-richardwolff.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-wolffrichardj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white

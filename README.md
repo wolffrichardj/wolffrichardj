@@ -26,11 +26,12 @@
 
 ### 🔗 Connect
 
-<a href="https://richardwolff.me/"><img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="30" /></a>
-<a href="https://www.linkedin.com/in/wolffrichardj"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="30" /></a>
-<a href="https://github.com/wolffrichardj"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" /></a>
+- Website: [richardwolff.me][website]
+- LinkedIn: [wolffrichardj][linkedin]
+- GitHub: [wolffrichardj][github]
+- Email: [wolffrichardj@gmail.com][email]
 
-Connect or message me on [LinkedIn][linkedin], [GitHub][github], or email me at [wolffrichardj@gmail.com][email]. I’m actively interested in speaking engagements on AI and scalable solutions.
+I’m actively interested in speaking engagements on AI and scalable solutions.
 
 [website]: https://richardwolff.me/
 [linkedin]: https://www.linkedin.com/in/wolffrichardj

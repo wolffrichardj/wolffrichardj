@@ -28,13 +28,11 @@
 
 - Website: [richardwolff.me][website]
 - LinkedIn: [wolffrichardj][linkedin]
-- GitHub: [wolffrichardj][github]
 - Email: [wolffrichardj@gmail.com][email]
 
 I’m actively interested in speaking engagements on AI and scalable solutions.
 
 [website]: https://richardwolff.me/
 [linkedin]: https://www.linkedin.com/in/wolffrichardj
-[github]: https://github.com/wolffrichardj
 [email]: mailto:wolffrichardj@gmail.com
 [derbynet]: https://github.com/wolffrichardj/derbynet

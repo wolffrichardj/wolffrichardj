@@ -20,11 +20,19 @@
 
 ### 🌟 Personal + Community Builder
 
-- Building tools and experiments that support family, learning, and community activities (ex: [DerbyNet Fork](https://github.com/wolffrichardj/derbynet) for Cub Scouts)  
+- Building tools and experiments that support family, learning, and community activities (ex: [DerbyNet Fork][derbynet])  
 
 ---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/wolffrichardj">LinkedIn</a><br/>
-  Connect or message me on LinkedIn, or email me at <a href="mailto:wolffrichardj@gmail.com">wolffrichardj@gmail.com</a>. I’m actively interested in speaking engagements on AI and scalable solutions.
-</p>
+### 🔗 Connect
+
+- Website: [richardwolff.me][website]
+- LinkedIn: [wolffrichardj][linkedin]
+- Email: [wolffrichardj@gmail.com][email]
+
+I’m actively interested in speaking engagements on AI and scalable solutions.
+
+[website]: https://richardwolff.me/
+[linkedin]: https://www.linkedin.com/in/wolffrichardj
+[email]: mailto:wolffrichardj@gmail.com
+[derbynet]: https://github.com/wolffrichardj/derbynet

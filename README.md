@@ -1,38 +1,25 @@
-<h2 align="left">Richard Wolff</h2>
+# Richard Wolff
 
-<p align="left">
-  <strong>Technology Leader · Platform & AI Engineering</strong><br/>
-  I build practical, scalable technology—and I like applying it beyond work, too.
-  From platform and AI systems to community projects for Cub Scouts, volunteering, and kid-friendly experiences,
-  I enjoy using technology to make everyday life a little better.
-</p>
+**Technology Leader · Platform & AI Engineering**
 
----
+I work across technology leadership and independent engineering projects, with an interest in useful systems, agent-assisted development, and evidence that makes a change reviewable.
 
-### 🧠 Technology Profile
+## Independent engineering
 
-- Platform & distributed system architecture  
-- Applied AI / LLMs in production environments  
-- Secure, regulated, global-scale systems  
-- AI-assisted workflows and agent-based automation  
+[**Databricks Associate Study App**](https://github.com/wolffrichardj/databricks-associate-study-guide#engineering-proof-duplicate-question-selection) is a personal React and TypeScript project with browser-local study progress and focused quizzes.
 
----
+Its engineering summary connects a real March 2026 change to public [selection code](https://github.com/wolffrichardj/databricks-associate-study-guide/blob/53a35a9d89da5755d94d1d2880f6023c4d6f90b0/src/lib/quiz.ts), [regression tests](https://github.com/wolffrichardj/databricks-associate-study-guide/blob/53a35a9d89da5755d94d1d2880f6023c4d6f90b0/src/test/quiz.test.ts), screenshots, and a dated validation record with its limits. The [development lessons](https://github.com/wolffrichardj/databricks-associate-study-guide/blob/53a35a9d89da5755d94d1d2880f6023c4d6f90b0/LESSONS_LEARNED.md) describe the agent-assisted workflow.
 
-### 🌟 Personal + Community Builder
+[Shared agent workflows](https://github.com/wolffrichardj/shared-agent-workflows) collects workflows and skills gathered or adapted during personal projects. A concrete example is [Reinforce](https://github.com/wolffrichardj/shared-agent-workflows/tree/main/generic/skills/reinforce), a published skill for routing reusable lessons to memory, workflow instructions, helpers, or canonical sources.
 
-- Building tools and experiments that support family, learning, and community activities (ex: [DerbyNet Fork][derbynet])  
+## Community contribution
 
----
+My [DerbyNet fork](https://github.com/wolffrichardj/derbynet) builds on the upstream race-management project. My work there centers on deployment and documentation; the underlying application is upstream work.
 
-### 🔗 Connect
+## Professional context and contact
 
-- Website: [richardwolff.me][website]
-- LinkedIn: [wolffrichardj][linkedin]
-- Email: [wolffrichardj@gmail.com][email]
+- [Leadership case studies and background](https://richardwolff.me/)
+- [LinkedIn](https://www.linkedin.com/in/wolffrichardj)
+- [Email](mailto:wolffrichardj@gmail.com)
 
-I’m actively interested in speaking engagements on AI and scalable solutions.
-
-[website]: https://richardwolff.me/
-[linkedin]: https://www.linkedin.com/in/wolffrichardj
-[email]: mailto:wolffrichardj@gmail.com
-[derbynet]: https://github.com/wolffrichardj/derbynet
+I’m interested in speaking engagements on AI and scalable solutions.

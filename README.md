@@ -18,6 +18,21 @@ Its engineering summary connects a real March 2026 change to public [selection c
 
 [Shared agent workflows](https://github.com/wolffrichardj/shared-agent-workflows) collects workflows and skills gathered or adapted during personal projects. A concrete example is [Reinforce](https://github.com/wolffrichardj/shared-agent-workflows/tree/main/generic/skills/reinforce), a published skill for routing reusable lessons to memory, workflow instructions, helpers, or canonical sources.
 
+## How I approach agentic delivery
+
+For my personal projects, I use agents to work through ambiguous intent and implementation, then move stable requirements into deterministic tests, interfaces and delivery controls. Evaluation establishes whether the intended outcome happened; explicit policy governs whether to fix, rerun, fall back, stop or ask for review.
+
+My delivery loop moves from a request through AI-assisted implementation, container build, automated tests and development-site evaluation. A **human review gate** brings together the requirement, implementation, test evidence, risks and visible behavior. Approval controls merge and promotion of the same reviewed artifact through UAT and production, followed by live verification. Useful lessons become maintained tests, controls and repository guidance.
+
+<details>
+<summary>View my personal delivery-loop model</summary>
+
+![Personal delivery loop: text request, AI coding and refinement, container build, automated tests, development site, human review, and live verification. Failures return to fixes and reruns; verification and learning inform the next request.](assets/agentic-delivery-loop.png)
+
+This is the operating model I am developing for my personal projects. The correction loop runs during an active agent task; unattended resumption remains a pilot target.
+
+</details>
+
 ## Community contribution
 
 My [DerbyNet fork](https://github.com/wolffrichardj/derbynet) builds on the upstream race-management project. My work there centers on deployment and documentation; the underlying application is upstream work.

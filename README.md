@@ -23,6 +23,8 @@ My independent projects connect that platform work to agent-assisted development
 
 These separate samples extract and harden selected boundaries from my personal tooling, with AI assistance in adaptation and review. Collection uses offline synthetic records and an in-process MCP-shaped mock; Exact Artifact demonstrates packaging and validation against independently trusted expectations. They demonstrate local controls, with no live provider session, authenticated CI attestation or release activation. Commit identity does not establish per-line human authorship.
 
+**Live sample checks:** Collection [![Collection checks](https://github.com/wolffrichardj/verified-artifact-collection/actions/workflows/check.yml/badge.svg?branch=release)](https://github.com/wolffrichardj/verified-artifact-collection/actions/workflows/check.yml) · Exact Artifact [![Exact Artifact checks](https://github.com/wolffrichardj/exact-artifact-demo/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/wolffrichardj/exact-artifact-demo/actions/workflows/verify.yml)
+
 ## Application work and engineering judgment
 
 [**Databricks Associate Study App**](https://github.com/wolffrichardj/databricks-associate-study-guide#engineering-proof-duplicate-question-selection) is a personal React and TypeScript project with browser-local study progress and focused quizzes.

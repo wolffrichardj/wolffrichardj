@@ -6,7 +6,7 @@
 
 [![Portfolio and leadership case studies](assets/website.svg)](https://richardwolff.me/) [![LinkedIn profile](assets/linkedin.svg)](https://www.linkedin.com/in/wolffrichardj) [![Email Richard](assets/email.svg)](mailto:wolffrichardj@gmail.com)
 
-[Engineering samples](#independent-engineering) · [Agentic delivery model](#how-i-approach-agentic-delivery) · [Application work](#application-work-and-engineering-judgment) · [Credentials](#selected-google-cloud-skill-badges)
+[Engineering samples](#user-content-independent-engineering) · [Agentic delivery model](#user-content-how-i-approach-agentic-delivery) · [Application work](#user-content-application-work-and-engineering-judgment) · [Credentials](#user-content-selected-google-cloud-skill-badges)
 
 I build and adapt systems that make the results of AI-assisted work inspectable: what was requested, which bytes arrived, what was verified, and what a person is approving.
 

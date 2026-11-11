@@ -6,7 +6,7 @@
 
 [![Portfolio and leadership case studies](assets/website.svg)](https://richardwolff.me/) [![LinkedIn profile](assets/linkedin.svg)](https://www.linkedin.com/in/wolffrichardj) [![Email Richard](assets/email.svg)](mailto:wolffrichardj@gmail.com)
 
-[Engineering samples](#independent-engineering) · [Agentic delivery model](#how-i-approach-agentic-delivery) · [Application work](#application-work-and-engineering-judgment)
+[Engineering samples](#independent-engineering) · [Agentic delivery model](#how-i-approach-agentic-delivery) · [Application work](#application-work-and-engineering-judgment) · [Credentials](#selected-google-cloud-skill-badges)
 
 I build and adapt systems that make the results of AI-assisted work inspectable: what was requested, which bytes arrived, what was verified, and what a person is approving.
 
@@ -23,7 +23,15 @@ My independent projects connect that platform work to agent-assisted development
 
 These separate samples extract and harden selected boundaries from my personal tooling, with AI assistance in adaptation and review. Collection uses offline synthetic records and an in-process MCP-shaped mock; Exact Artifact demonstrates packaging and validation against independently trusted expectations. They demonstrate local controls, with no live provider session, authenticated CI attestation or release activation. Commit identity does not establish per-line human authorship.
 
-**Live sample checks:** Collection [![Collection checks](https://github.com/wolffrichardj/verified-artifact-collection/actions/workflows/check.yml/badge.svg?branch=release)](https://github.com/wolffrichardj/verified-artifact-collection/actions/workflows/check.yml) · Exact Artifact [![Exact Artifact checks](https://github.com/wolffrichardj/exact-artifact-demo/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/wolffrichardj/exact-artifact-demo/actions/workflows/verify.yml)
+## Selected Google Cloud skill badges
+
+| AI agent development | Cloud security | Platform infrastructure |
+| --- | --- | --- |
+| <a href="https://www.credly.com/badges/d40e406d-d517-4f05-bf7f-6e0312cc8c72"><img src="assets/credentials/adk.png" width="180" alt="Engineer AI Agents with Agent Development Kit (ADK) issued to Richard Wolff by Google Cloud"></a> | <a href="https://www.credly.com/badges/4eca7d7d-e2e3-49ef-9ad8-d8ce3b9f333a"><img src="assets/credentials/cloud-security.png" width="180" alt="Implement Cloud Security Fundamentals on Google Cloud Skill Badge issued to Richard Wolff by Google Cloud"></a> | <a href="https://www.credly.com/badges/3440ac32-b090-4f0a-a748-d40e15dd80c4"><img src="assets/credentials/load-balancing.png" width="180" alt="Implement Load Balancing on Compute Engine Skill Badge issued to Richard Wolff by Google Cloud"></a> |
+| [Engineer AI Agents with Agent Development Kit (ADK)](https://www.credly.com/badges/d40e406d-d517-4f05-bf7f-6e0312cc8c72) | [Implement Cloud Security Fundamentals on Google Cloud Skill Badge](https://www.credly.com/badges/4eca7d7d-e2e3-49ef-9ad8-d8ce3b9f333a) | [Implement Load Balancing on Compute Engine Skill Badge](https://www.credly.com/badges/3440ac32-b090-4f0a-a748-d40e15dd80c4) |
+| Apr 14, 2026 | Jul 11, 2026 | Jul 11, 2026 |
+
+These Google Cloud skill badges recognize completion of hands-on challenge labs. [View my Credly badge wallet](https://www.credly.com/users/wolffrichardj).
 
 ## Application work and engineering judgment
 
@@ -33,7 +41,7 @@ Its engineering summary connects a real March 2026 change to public [selection c
 
 [**When an AI coach should stay silent**](https://richardwolff.me/resources/agentcoach/preview.html) is a source-reviewed engineering case study from the private AgentCoach project. It examines evidence, tentative inference and abstention using newly authored fictional illustrations. The alpha gate remains closed; product tests and coaching efficacy are not established by the case study.
 
-[Shared agent workflows](https://github.com/wolffrichardj/shared-agent-workflows) collects workflows and skills gathered or adapted during personal projects. [Reinforce](https://github.com/wolffrichardj/shared-agent-workflows/tree/main/generic/skills/reinforce) is a published skill for routing reusable lessons to memory, workflow instructions, helpers, or canonical sources.
+[Shared agent workflows](https://github.com/wolffrichardj/shared-agent-workflows) collects workflows and skills gathered or adapted during personal projects. [Reinforce](https://github.com/wolffrichardj/shared-agent-workflows/tree/main/generic/skills/reinforce) is a published skill for routing reusable lessons to memory, workflow instructions, helpers, or canonical sources. [Install Reinforce 0.1.0](https://github.com/wolffrichardj/shared-agent-workflows/releases/tag/reinforce-v0.1.0).
 
 ## How I approach agentic delivery
 
